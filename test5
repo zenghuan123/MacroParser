@@ -1,0 +1,21 @@
+#/*undef*/ /*abc*/ define /*a*//*123123*/d1/*"error"*/ "!@#$%^&*()_+       abc"
+#define d2 L"!@#$%^&*()_+       defgh"
+#define d3 "\a\b\c\d\e\f\g\\\"\'\123\x32\x34\t\v\f"
+#define d4 L"\  \ \\n\n\t\\t\\a\b\"\\"
+#define d5  "'\     \123\xABC"
+#define d6 "/*ab*/\"\\\"\"\'\\"
+#define d7 '\\'
+#define d8 '\''
+#define d9 '\47'
+#define d10 '\42'
+#define d11 '"'
+#define d12 '\"'
+#define d13 '\x23'
+#define d14 '\a'
+#define d15 '\a\b\c\1239'
+#define d16 '\t\n\\\",\t'
+#define d17 '123abc\''
+#define d18 ""
+#define d19 l""
+#define d20 "\\"
+

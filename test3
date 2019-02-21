@@ -1,0 +1,43 @@
+#define/*123123*/A/*123123*/00000000000000000000000012
+#define/*123123*/B/*123123*/0000123.456
+#define C 90123
+#define D .45899
+#define/*123123*/E 12839.
+#define F 0x45
+#define G 0x10000A
+#define H 0X78BBBaa
+#define I +	0000015
+#define J -		00017
+#define K + /*************************88*/ 0012.34f
+#define L +		345
+#define M -		678
+#define N +		00075.34
+#define O -				00045.123
+#define P +		.234
+#define Q -		.789
+#define R +  1361.
+#define S -		0x12
+#define T +		 0x78
+#define U +		 0XAAAcc
+#define V -		0XBBFFf
+#define W - /*123123*/ 123ll//
+#define X +			1.e3
+#define Y -			4.e34
+#define Z +			12.4
+#define a -			34.78
+#define b +		.12e9
+#define c -	.46e12
+#define d + 1.2e56
+#define e - 8.1e98
+#define f +	/*123123*/	34e5
+#define g -	/*123123*/	4e12
+#define h +	/*123123*/	001e0011
+#define i - /*123123*/    020e34
+#define j  +  /*error1*/ 0x12e34
+#define k - /*error2*/  0X56e2
+#define l + /*error3/*/  0x12e3E2
+#define m - /*error4/*/  0X34E5e4
+#define n + /***adfasdf/*/ 001e11f
+#define o + /**12313/*******/ 12e34F
+#define p +/*123132*/ 123e-12
+#define q -/*345*/ 456E+45

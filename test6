@@ -1,0 +1,9 @@
+#define tuple1212 {{{}}}
+#define tuple1 {1,/*12312{*/2,3/*1adfaf}*/,4,}//}#define error1
+#define tuple2 {/*"""{*/"abc"/*abc*/,"",}//#define error2
+#define tuple3 {/*undefa,{*/L"\"",'\t','\\'}
+#define tuple4 {/*{}*/{},{},{}}
+#define tuple5 {}
+#define tuple6 {{1},{2},{"abc}"}}
+#define tuple7 {/*error,*/{'{1}'/*"abc"""""*/,{'{2}',{"3",{4},5}/*****""""""""""*/,6},7}}
+#define tuple8 {{{}}}

@@ -1,0 +1,14 @@
+#/* #ifdef *//* #ifdef *//* #ifdef *//* #ifdef */ ifdef TEST1
+# /* #ifndef */  /* #ifndef */    ifndef TEST2
+#  /* #else */   /* #else */ /* #else */else
+#  /*    #undef */  undef TEST1
+# /*  #endif  */ /* #define a */ define A
+# /*  adfsadf */ /* adfsafaf */ endif
+#/*  adfsadf */ /* adfsafaf */ endif
+//\
+#ifdef\
+#ifndef\
+#else\
+#endif\
+#define\
+#undef

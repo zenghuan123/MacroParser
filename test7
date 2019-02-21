@@ -1,0 +1,7 @@
+
+#define data1 "abc" L"123"
+#define data2 {1,"abc","jin" L"jiang""1",{""""}}
+#define data3 "\12" "12"/* 不是Q2*/
+#define data4 {1,{"\12" "12"}}
+
+#define data5 {'"',"\\","\\'"}
